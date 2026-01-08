@@ -1,0 +1,2 @@
+# Assessing-the-historical-US-stock-market-performance-using-the-Total-Return-SP500-index
+ he SP500 index analyzed in class (^GSPC ticker) is available since 1928 in Yahoo Finance (backfilled, since SP500 started only in 1957). Unfortunately, the index tracks only the price movements of its components and it does not reflect cash distributions (dividends), missing a substantial portion of total return. 
